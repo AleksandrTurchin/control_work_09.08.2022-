@@ -18,6 +18,7 @@ try:
     lst = []
     for i in _list:
         lst.append(a / i)
+raise exsept as ex_obj:
     print(lst)
 except ZeroDivisionError:
     break
