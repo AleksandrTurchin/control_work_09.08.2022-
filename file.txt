@@ -1,0 +1,6 @@
+Python is powerful and fast.
+Plays well with others.
+Runs everywhere.
+Is friendly and easy to learn.
+Is Open.
+dict
